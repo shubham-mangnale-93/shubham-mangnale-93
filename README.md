@@ -1,15 +1,24 @@
  <h1 align="center">Hi 👋, I'm Shubham Mangnale</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+<h3 align="center">An aspiring Data Analyst from India 📊</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-mangnale-93&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-mangnale-93" /> </p>
+## 👨‍💻 About Me
 
+- 🎓 B.Tech Computer Engineering Student
+- 📊 Aspiring Data Analyst
+- 🐍 Currently learning Python
+- 🗄️ Learning SQL and Database Management
+- 🌱 Passionate about Data Analytics and Technology
+- 🚀 Building skills through projects and continuous learning
+- 📚 Always exploring new tools and technologies
+  
 - 📫 How to reach me **shubhammangnale93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shubham-mangnale-77863a340/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham mangnale" height="30" width="40" /></a>
-<a href="https://instagram.com/shubham_magnale93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham_magnale93" height="30" width="40" /></a>
+<a href="https://instagram.com/shubham_magnale93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham_magnale93" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shubhammangnale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhammangnale" height="30" width="40" /></a>
 </p>
 
