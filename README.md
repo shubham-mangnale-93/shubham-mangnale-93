@@ -14,7 +14,7 @@ Currently pursuing my <b>B.Tech in Computer Engineering</b>, I'm passionate abou
   <li><b>Database Management:</b> MySQL</li>
   <li><b>Data Analytics:</b> Excel, Power BI</li>
   <li><b>Tools & Platforms:</b> Git, GitHub, VS Code, Jupyter Notebook</li>
-</ul>
+</ul> <br>
 <h3>💼 Current Role</h3>
 <ul>
   <li>Working on personal and academic projects to build data analytics skills</li>
@@ -25,7 +25,7 @@ Currently pursuing my <b>B.Tech in Computer Engineering</b>, I'm passionate abou
   <li><b>Bachelor of Technology (B.Tech), Computer Engineering</b> — Dr. Babasaheb Ambedkar Technological University, Lonere - Raigad | Nov 2022 – Jul 2026</li>
   <li><b>HSC, General Science</b> — Shri Shivaji College of Arts, Commerce & Science, Kandhar | Jun 2021 – Jun 2022 | Grade: 78.17%</li>
   <li><b>SSC, School Education</b> — Shri Shivaji High School, Kandhar | Jun 2019 – Jun 2020 | Grade: 77.20%</li>
-</ul>
+</ul> <br>
 <h3>🛠️ Skills & Tools</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
