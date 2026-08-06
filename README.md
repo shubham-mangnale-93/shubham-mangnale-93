@@ -16,8 +16,9 @@ I have Completed my <b>B.Tech in Computer Engineering</b>, I'm passionate about 
 </ul>
 <h3>💼 Current Role</h3>
 <ul>
-  <li>Working on personal and academic projects to build data analytics skills</li>
   <li>Aspiring Data Analyst</li>
+  <li>Developing practical skills in Python, SQL, Excel, and Power BI</li>
+  <li>Building real-world data analytics projects</li>
 </ul>
 <h3>🎓 Education</h3>
 <ul>
