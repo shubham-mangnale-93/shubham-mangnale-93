@@ -2,9 +2,9 @@
 <p align="center">Thank you for visiting my profile! 📊 From lines of code to lines of insight — this is where my story unfolds.</p>
 <img align="right" alt="coding" width="180" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 🌟 About Me
-I am a dedicated and aspiring **Data Analyst** with a strong interest in **Python**, **SQL**, and **data-driven problem-solving**.
+I am a dedicated and aspiring Data Analyst with a strong interest in Python, SQL, and data-driven problem-solving.
  
-Currently pursuing my **B.Tech in Computer Engineering**, I'm passionate about data analytics and technology, and I keep building my skills through continuous learning and hands-on projects.
+I have Completed My B.Tech in Computer Science & Engineering, I'm passionate about data analytics and technology, and I keep building my skills through continuous learning and hands-on projects.
  
 🔍 Technical Expertise
 - **Programming Languages:** C, Python
