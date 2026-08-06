@@ -5,7 +5,6 @@
 I am a dedicated and aspiring <b>Data Analyst</b> with a strong interest in <b>Python</b>, <b>SQL</b>, and <b>data-driven problem-solving</b>.
  
 I have Completed my <b>B.Tech in Computer Engineering</b>, I'm passionate about data analytics and technology, and I keep building my skills through continuous learning and hands-on projects.
- 
 <br clear="both"/>
 <h3>🔍 Technical Expertise</h3>
 <ul>
@@ -14,7 +13,7 @@ I have Completed my <b>B.Tech in Computer Engineering</b>, I'm passionate about 
   <li><b>Database Management:</b> MySQL</li>
   <li><b>Data Analytics:</b> Excel, Power BI</li>
   <li><b>Tools & Platforms:</b> Git, GitHub, VS Code, Jupyter Notebook</li>
-</ul> <br>
+</ul>
 <h3>💼 Current Role</h3>
 <ul>
   <li>Working on personal and academic projects to build data analytics skills</li>
