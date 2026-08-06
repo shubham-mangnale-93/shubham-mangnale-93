@@ -1,25 +1,25 @@
 <h1 align="center">👋 Hii! I'm Shubham Mangnale</h1>
 <p align="center">Thank you for visiting my profile! 📊 From lines of code to lines of insight — this is where my story unfolds.</p>
 <img align="right" alt="coding" width="180" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-### 🌟 About Me
+🌟 About Me
 I am a dedicated and aspiring **Data Analyst** with a strong interest in **Python**, **SQL**, and **data-driven problem-solving**.
  
 Currently pursuing my **B.Tech in Computer Engineering**, I'm passionate about data analytics and technology, and I keep building my skills through continuous learning and hands-on projects.
  
-### 🔍 Technical Expertise
+🔍 Technical Expertise
 - **Programming Languages:** C, Python
 - **Web Development:** HTML, CSS
 - **Database Management:** MySQL
 - **Data Analytics:** Excel, Power BI
 - **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook
-### 💼 Current Role
+💼 Current Role
 - Working on personal and academic projects to build data analytics skills
 - Aspiring Data Analyst
-### 🎓 Education
+🎓 Education
 - **Bachelor of Technology (B.Tech), Computer Engineering** — Dr. Babasaheb Ambedkar Technological University, Lonere - Raigad | Nov 2022 – Jul 2026
 - **HSC, General Science** — Shri Shivaji College of Arts, Commerce & Science, Kandhar | Jun 2021 – Jun 2022 | Grade: 78.17%
 - **SSC, School Education** — Shri Shivaji High School, Kandhar | Jun 2019 – Jun 2020 | Grade: 77.20%
-### 🛠️ Skills & Tools
+🛠️ Skills & Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;
@@ -50,14 +50,14 @@ Currently pursuing my **B.Tech in Computer Engineering**, I'm passionate about d
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
-### 📈 GitHub Activity
+📈 GitHub Activity
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-mangnale-93&theme=default&hide_border=true" alt="streak stats"/>
 </p>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-mangnale-93&theme=minimal&hide_border=true" alt="activity graph"/>
 </p>
-### 💬 Connect with Me
+💬 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/shubham-mangnale-77863a340/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/shubham-mangnale-93/shubham-mangnale-93/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
