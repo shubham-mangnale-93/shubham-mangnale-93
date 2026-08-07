@@ -63,7 +63,7 @@ I have Completed my <b>B.Tech in Computer Engineering</b>, I'm passionate about 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-mangnale-93&theme=minimal&hide_border=true" alt="activity graph"/>
 </p>
 <h3>💬 Connect with Me</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/shubham-mangnale-77863a340/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/shubham-mangnale-93/shubham-mangnale-93/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/shubhammangnale" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
