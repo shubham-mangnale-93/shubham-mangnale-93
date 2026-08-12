@@ -57,7 +57,7 @@ I have Completed my <b>B.Tech in Computer Engineering</b>, I'm passionate about 
 </p>
 <h3>📈 GitHub Activity</h3>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-mangnale-93&theme=default&hide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=shubham-mangnale-93&theme=default&hide_border=true" alt="streak stats"/>
 </p>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-mangnale-93&theme=minimal&hide_border=true" alt="activity graph"/>
@@ -69,6 +69,3 @@ I have Completed my <b>B.Tech in Computer Engineering</b>, I'm passionate about 
 <a href="https://www.hackerrank.com/shubhammangnale" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 <a href="mailto:shubhammangnale93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-
- 
