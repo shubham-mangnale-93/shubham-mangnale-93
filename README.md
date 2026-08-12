@@ -6,7 +6,7 @@ I am a dedicated and aspiring <b>Data Analyst</b> with a strong interest in <b>P
  
 I have Completed my <b>B.Tech in Computer Engineering</b>, I'm passionate about data analytics and technology, and I keep building my skills through continuous learning and hands-on projects.
 <br clear="both"/>
-<h3>🔍 Technical Expertise</h3>
+<h3>🔍 Technical Expertise</h3> 
 <ul>
   <li><b>Programming Languages:</b> C, Python</li>
   <li><b>Web Development:</b> HTML, CSS</li>
